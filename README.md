@@ -1,8 +1,8 @@
 # kisKampiLinux
 
-#Notlar
+# Notlar
     #Önemli
-        -Bir sınıf tanımalaması yapılan dosyada farklı bir hiçbir şey olmamalı(Başka bir require etme gibi).
+        -Bir sınıf tanımlaması yapılan dosyada farklı bir hiçbir şey olmamalı(Başka bir require etme gibi). Clean code için bir komutun sadece bir işlevi olmalı.
 # 1. Gün
     #Konular
         -Class Yapısı
