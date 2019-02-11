@@ -23,6 +23,8 @@
         //Eğer farklı bir class bu class ı extend ettiği taktirde camasir degiskenine erişebilir. Fakat private yapsa idik farklı bir class bu class ı extend ettiği taktirde erişemez. Ayrıca protected ve private bu class üzerinden yeni bir nesne oluşturulduğu taktirde dışarıdan erişilemez.
         protected $camasir;
 
+
+
         //eğer sabit bir değişken var ise const olarak tanımlamamız gerekli. ve çağırırken self:: ile çağırılır. ve $ ile tanımlanmazlar const ile sabit ismini  belirtmemiz yeterli.
         //Bütün sınıflar içerisinde sabitlere erişmek için self::sabitIsmi ile çağırıyoruz.
         //$this ise belirli bir sınıf üzerinden oluşturulan nesne üzerinden bir işlem yapılacaksa 
